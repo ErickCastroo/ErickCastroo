@@ -1,4 +1,4 @@
-<h1>Bienvenido < Coder />! <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> </h1>
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=777777&background=00000000&width=500&height=120&lines=++Bienvenido+<Coder/>+)](https://git.io/typing-svg) 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Erick+Castro;Full+Stack+Developer;Disfrutando+del+proceso;Contratame+por+favor!!">
 </p>
