@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=fff&background=00000000&width=500&height=250&lines=++Bienvenido+<Coder/>+)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=fff&background=00000000&width=500&height=100&lines=++Bienvenido+<Coder/>+)](https://git.io/typing-svg) 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Erick+Castro;Full+Stack+Developer;Disfrutando+del+proceso;Contratame+por+favor!!">
 </p>
