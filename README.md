@@ -1,4 +1,4 @@
- [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=fff&background=00000000&width=1000&height=50&lines=++Bienvenido+<Coder/>+👋)](https://git.io/typing-svg) 
+ [![Typing SVG](https://readme-typing-svg.herokuapp.com?duration=6500&color=fff&background=00000000&width=500&height=50&lines=++Bienvenido+<Coder/>+👋)](https://git.io/typing-svg) 
 <p align='center'>
 <img src="https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&vCenter=true&width=433&height=75&lines=I'm+Erick+Castro;Full+Stack+Developer;Disfrutando+del+proceso;Contratame+por+favor!!">
 </p>
@@ -30,7 +30,4 @@
    <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white " />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/Microsoft_SQL_Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white " />&nbsp;&nbsp;
    <img src="https://img.shields.io/badge/redis-%23DD0031.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
-   
-   
-   <br />
 </p> 
